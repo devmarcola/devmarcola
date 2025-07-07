@@ -1,3 +1,3 @@
-#### Oi! Eu sou o Luiz. <br> Crio sites para grandes empresas, pequenas empresas e startups, usando as linguagens básicas da web com um design bonito e funcional.
+##### Oi! Eu sou o Luiz. Crio sites para grandes empresas, pequenas empresas e startups, usando as linguagens básicas da web.
 ---
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
